@@ -1,4 +1,5 @@
 # rayyan_ahr
-*This text is italics*
-~~OOPS I made an error~~
-***This text is both bold and italics***\
+**This text is bold**\
+23 *This text is italics*\
+24 ***This text is both bold and italics***\
+25 ~~OOPS I made an error~~
